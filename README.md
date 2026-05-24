@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/always-be-mine/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Always Be Mine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-be-mine/) |
+| **Get License** | [Music Rights & Licensing for Always Be Mine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-be-mine/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat when you pull me close
+> The kind of fire that nobody knows
+> A midnight spark in the candle glow
+> I just want to take it nice and slow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
