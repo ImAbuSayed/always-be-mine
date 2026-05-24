@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Always Be Mine
+
+This log tracks the cryptographic history and versioning for the song **Always Be Mine** (always-be-mine).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T03:52:00.815157 | `v1` | `4d241f3674179c7a54ea1da4b06fb41479c3b50f5bc3192b8f5e83d4ba0ac1c4` | `a2f064dfda71c9fa2ecfeb63ca1b3d47c79647153f66b1f40b75fad738fa783f` | `2026-05-25_always-be-mine-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
